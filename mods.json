@@ -9,6 +9,14 @@
          "group" : "Core"
       },
       {
+         "name" : "ii's stupid menu",
+         "tag" : "",
+         "gitPath" : "iiDk-the-actual/iis.Stupid.Menu",
+         "releaseId" : 1,
+         "author" : "iiDK",
+         "group" : "Gameplay"
+      },
+      {
          "name" : "Gorilla Cosmetics",
          "tag" : "",
          "gitPath" : "legoandmars/GorillaCosmetics",
