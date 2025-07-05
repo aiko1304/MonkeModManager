@@ -1,3 +1,6 @@
+# Notice
+This is not the actual MonkeModManager. Please check the official Gorilla Tag Modding for the original MonkeModManager!
+
 # Monke Mod Manager
 ![Preview](https://i.imgur.com/6mEIBxm.png)
 
